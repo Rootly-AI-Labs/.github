@@ -11,7 +11,6 @@ The [Rootly AI Labs](https://labs.rootly.ai/) is a fellow-led community designed
 ## Our fellows
 * Jeba Emmanuel – Ex Linkedin Staff Engineer
 * Casey Brown – Head of Platform Engineering at Venmo
-* Heinrich Hartmann - Principal SRE at Zalando
 * Laurence Liang - McGill Engineering
 * Sylvain Kalache - Head of the Rootly AI Labs
 
