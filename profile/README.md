@@ -1,4 +1,3 @@
-
 # Building the future of reliability and operational excellence 
 The [Rootly AI Labs](https://labs.rootly.ai/) is a fellow-led community designed to redefine reliability engineering. We develop innovative prototypes, create open-source tools, and produce research that's shared to advance the standards of operational excellence.
 
