@@ -11,7 +11,6 @@ The [Rootly AI Labs](https://labs.rootly.ai/) is a fellow-led community designed
 ## Our fellows
 * Sahil Kumar - Ex-Twilio Director of AI
 * Casey Brown – Head of Platform Engineering at Venmo
-* Jeba Emmanuel – Ex-LinkedIn Staff Engineer
 * Laurence Liang - McGill Engineering
 * Allan Parsons – Sr Staff Engineer at Venmo
 * Sylvain Kalache - Head of the Rootly AI Labs
