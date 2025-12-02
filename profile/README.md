@@ -4,7 +4,7 @@ The [Rootly AI Labs](https://rootly.com/ai-labs) is a fellow-led community desig
 ## Some of our projects:
 * [On-call Burnout Detector](https://github.com/Rootly-AI-Labs/On-Call-Burnout-Detector): Detecting burnout risk in incident responder teams, using incident and on-call data, GitHub activity, and Slack communication patterns.
 * [Rootly MCP server](https://github.com/Rootly-AI-Labs/Rootly-MCP-server): Bring incident response into your coding assistant with the Rootly MCP server. 
-* [SRE-skills-bench](https://github.com/Rootly-AI-Labs/SRE-skills-bench/blob/main/README.md): A benchmark suite for testing how well LLMs perform on SRE tasks. Think SWE-bench, but for reliability engineers.
+* [SRE-skills-bench](https://github.com/Rootly-AI-Labs/SRE-skills-bench/): A benchmark suite for testing how well LLMs perform on SRE tasks. Think SWE-bench, but for reliability engineers.
 * [Screen Sherpa](https://github.com/Rootly-AI-Labs/SRE-screen-sherpa): Prototype of an over-the-shoulder SRE AI assistant, this prototype is helping engineers make sense of the graph they are watching.
 
 ![Rootly AI logo](https://github.com/Rootly-AI-Labs/EventOrOutage/raw/main/rootly-ai.png)
