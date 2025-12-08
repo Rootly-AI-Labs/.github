@@ -33,6 +33,6 @@ Sylvain Kalache – Head of Rootly AI Labs
 # Supported By
 Thank you to our partners for supporting us.
 
-![Anthropic](anthropic-logo.jpg) ![Google Cloud](google-cloud-logo.jpg) ![Google DeepMind](google-deepmind-logo.jpg)
+<img src="anthropic-logo.jpg" alt="Anthropic" width="150"> <img src="google-cloud-logo.jpg" alt="Google Cloud" width="150"> <img src="google-deepmind-logo.jpg" alt="Google DeepMind" width="150">
 
 
