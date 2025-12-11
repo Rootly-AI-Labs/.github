@@ -13,6 +13,8 @@ The [Rootly AI Labs](https://rootly.com/ai-labs) is a fellow-led community desig
 * [IncidentDiagram](https://github.com/Rootly-AI-Labs/IncidentDiagram): Generates a diagram highlighting what happened during an incident by ingesting the retrospective and associated codebase.
 
 # About the Rootly AI Labs
+<img src="rootly-ai-labs.png" alt="Rootly AI Labs">
+
 [Rootly](https://rootly.com/) began in 2021 by building a category-defining on-call and incident response platform, trusted by thousands, including Replit, NVIDIA, LinkedIn, and Dropbox.
 
 Now, GenAI is simultaneously introducing new complexities and unlocking opportunities to redefine reliability forever.
