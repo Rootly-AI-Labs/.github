@@ -10,6 +10,7 @@ The [Rootly AI Labs](https://rootly.com/ai-labs) is a fellow-led community desig
 * [SRE-skills-bench](https://github.com/Rootly-AI-Labs/SRE-skills-bench): Can LLMs resolve real-world SRE Tasks? A benchmark testing LLMs on SRE-type tasks. Like SWE-bench, but for SREs.
 * [On-Call Health](https://github.com/Rootly-AI-Labs/On-Call-Health): Detects potential signs of overwork in incident responders, which could lead to burnout.
 * [Rootly MCP server](https://github.com/Rootly-AI-Labs/Rootly-MCP-server): Resolve production incidents in under a minute without leaving your IDE.
+* [Rootly Plugin for Claude Code](https://github.com/Rootly-AI-Labs/claude-rootly-plugin): Full-lifecycle incident management from Claude Code. Deploy safety checks, incident response, on-call dashboards, and retrospectives.
 * [IncidentDiagram](https://github.com/Rootly-AI-Labs/IncidentDiagram): Generates a diagram highlighting what happened during an incident by ingesting the retrospective and associated codebase.
 
 # About the Rootly AI Labs
